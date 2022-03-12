@@ -6,6 +6,7 @@
 
 * ReactJS
 * Styled Components
+* Axios
 * NodeJS
 * MongoDB
 
